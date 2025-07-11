@@ -20,9 +20,9 @@ Para que la aplicación funcione correctamente, debes crear una base de datos en
 
 - **Host**: `localhost`
 - **Puerto**: `3306`
-- **Nombre de la base de datos**: `vecihubdb`
-- **Usuario**: `vecihubadmin`
-- **Contraseña**: `vecihubadmin123$`
+- **Nombre de la base de datos**: `VeciHubDB`
+- **Usuario**: `root`
+- **Contraseña**: `123`
 
 ### 🧱 Script de creación recomendado
 
