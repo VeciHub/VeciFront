@@ -20,9 +20,6 @@ npm install
 Para ejecutar la aplicación completa, necesitas iniciar tanto el servidor API como la aplicación frontend:
 
 ```bash
-# En una terminal, inicia el servidor API
-npm run api
-
 # En otra terminal, inicia el servidor de desarrollo frontend
 npm run dev
 ```
