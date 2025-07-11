@@ -24,15 +24,6 @@ Para que la aplicación funcione correctamente, debes crear una base de datos en
 - **Usuario**: `root`
 - **Contraseña**: `123`
 
-### 🧱 Script de creación recomendado
-
-```sql
-CREATE DATABASE vecihubdb CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-
-CREATE USER 'vecihubadmin'@'localhost' IDENTIFIED BY 'vecihubadmin123$';
-GRANT ALL PRIVILEGES ON vecihubdb.* TO 'vecihubadmin'@'localhost';
-FLUSH PRIVILEGES;
-```
 
 > ⚠️ Asegúrate de tener el puerto 3306 disponible y permitir conexiones desde tu aplicación backend.
 
