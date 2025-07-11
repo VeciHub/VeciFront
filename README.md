@@ -123,8 +123,6 @@ npm install
 # Iniciar servidor de desarrollo
 npm run dev
 
-# Compilar para producción
-npm run build
 ```
 
 ---
